@@ -221,6 +221,25 @@
         }
       ],
       "id": 2
+    },
+    {
+      "endereco": "asaaa",
+      "numero": "99",
+      "complemento": "hjjhjh",
+      "formaPagamento": "dinheiro",
+      "itens": [
+        {
+          "id": 1,
+          "img": {
+            "url": "/assets/ofertas/1/img1.jpg"
+          },
+          "titulo": "Super Burger",
+          "descricao_oferta": "Rodízio de Mini-hambúrger com opção de entrada.",
+          "valor": 29.9,
+          "quantidade": 1
+        }
+      ],
+      "id": 3
     }
   ]
 }
