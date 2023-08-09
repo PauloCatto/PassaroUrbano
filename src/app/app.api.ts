@@ -1,1 +1,1 @@
-export const URL = 'https://paulocatto.github.io/PassaroUrbano/';
+export const URL = 'http://localhost:3000';
