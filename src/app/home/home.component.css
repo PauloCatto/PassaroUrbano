@@ -1,0 +1,12 @@
+.padding{
+  padding: 1rem;
+}
+
+.container {
+  margin-bottom: 5rem;
+}
+
+.card-block {
+  margin-top: 1rem;
+  padding: 0.5rem;
+}

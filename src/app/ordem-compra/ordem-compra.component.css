@@ -1,0 +1,40 @@
+.ordem-compra{
+  margin: 2rem;
+  margin-bottom: 5rem;
+}
+
+input.ng-invalid.ng-touched {
+  border: 1px solid #ff0000;
+}
+
+input.ng-valid.ng-touched {
+  border: 1px solid #008000;
+}
+
+select.ng-invalid.ng-touched {
+  border: 1px solid #ff0000;
+}
+
+select.ng-valid.ng-touched {
+  border: 1px solid #008000;
+}
+
+.center {
+  margin: auto;
+}
+
+.right {
+  margin-top: 0.5rem;
+  margin-left: 3rem;
+}
+
+.edit {
+  height: 10rem;
+}
+
+
+#buttonOfertas{
+  margin-top: 2rem;
+  margin-left: 25rem;
+  margin-bottom: 5rem;
+}
